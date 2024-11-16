@@ -1,0 +1,13 @@
+<resources>
+    <!-- Nombre de la app -->
+    <string name="app_name">LaboratorioCalificado03</string>
+
+    <!-- Descripción de la imagen del profesor -->
+    <string name="teacher_image">Imagen del Profesor</string>
+
+    <!-- Títulos o textos comunes -->
+    <string name="error_loading_data">Error al cargar los datos</string>
+    <string name="calling_teacher">Llamando al profesor...</string>
+    <string name="sending_email">Enviando correo al profesor...</string>
+    <string name="choose_email_app">Selecciona una app para enviar el correo</string>
+</resources>
